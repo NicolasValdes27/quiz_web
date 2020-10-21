@@ -1,0 +1,61 @@
+.elementSize {
+  width: 2cm;
+  height: 2cm;
+}
+.textCenter {
+  text-align: center;
+}
+.green:hover {
+  background-color: silver;
+}
+.green {
+  background-color: #23DA9A;
+}
+.purple:hover {
+  background-color: silver;
+}
+.purple {
+  background-color: #A83FD6;
+}
+.lightblue:hover {
+  background-color: silver;
+}
+.lightblue {
+  background-color: lightblue;
+}
+.lightblue-2:hover {
+  background-color: silver;
+}
+.lightblue-2 {
+  background-color: #26C2CC;
+}
+.lightgreen:hover {
+  background-color: silver;
+}
+.lightgreen {
+  background-color: #B2DF79;
+}
+.blue:hover {
+  background-color: silver;
+}
+.blue {
+  background-color: #2F74F5;
+}
+.red:hover {
+  background-color: silver;
+}
+.red {
+  background-color: #F5423A;
+}
+.orange:hover {
+  background-color: silver;
+}
+.orange {
+  background-color: #FF9700;
+}
+.yellow:hover {
+  background-color: silver;
+}
+.yellow {
+  background-color: #D0DF1C;
+}
